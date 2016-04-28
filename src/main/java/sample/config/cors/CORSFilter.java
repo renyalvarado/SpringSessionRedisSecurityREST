@@ -1,4 +1,4 @@
-package com.cleteci.config.cors;
+package sample.config.cors;
 
 import java.io.IOException;
 import javax.servlet.Filter;

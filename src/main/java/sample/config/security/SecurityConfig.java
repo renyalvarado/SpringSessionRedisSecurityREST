@@ -15,7 +15,7 @@
  */
 package sample.config.security;
 
-import com.cleteci.config.cors.CORSFilter;
+import sample.config.cors.CORSFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpMethod;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
